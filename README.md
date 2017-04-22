@@ -1,9 +1,14 @@
-# api documentation for  [ng-annotate-webpack-plugin (v0.2.0)](https://github.com/cliechty/ng-annotate-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-annotate-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-annotate-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-annotate-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-annotate-webpack-plugin)
+# npmdoc-ng-annotate-webpack-plugin
+
+#### api documentation for  [ng-annotate-webpack-plugin (v0.2.0)](https://github.com/cliechty/ng-annotate-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-annotate-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-annotate-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-annotate-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-annotate-webpack-plugin)
+
 #### webpack plugin that runs ng-annotate on your bundles
 
-[![NPM](https://nodei.co/npm/ng-annotate-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/ng-annotate-webpack-plugin)
+[![NPM](https://nodei.co/npm/ng-annotate-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng-annotate-webpack-plugin)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ng-annotate-webpack-plugin_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ng-annotate-webpack-plugin/build/screenCapture.npmPackageListing.svg)
 
@@ -44,17 +49,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "cliechty",
-            "email": "codeofchris@gmail.com"
+            "name": "cliechty"
         },
         {
-            "name": "jeffling",
-            "email": "jeff.ummu@gmail.com"
+            "name": "jeffling"
         }
     ],
     "name": "ng-annotate-webpack-plugin",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/cliechty/ng-annotate-webpack-plugin.git"
@@ -62,19 +64,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ng-annotate-webpack-plugin](#apidoc.module.ng-annotate-webpack-plugin)
-
-
-
-# <a name="apidoc.module.ng-annotate-webpack-plugin"></a>[module ng-annotate-webpack-plugin](#apidoc.module.ng-annotate-webpack-plugin)
 
 
 
